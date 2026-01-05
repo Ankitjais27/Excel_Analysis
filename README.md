@@ -85,12 +85,7 @@ npm start
 The React app will run at:
 http://localhost:3000
 
-🌐 Deployment
-Frontend: Vercel
 
-Backend: Render
-
-Database: MongoDB Atlas
 
 
 🙌 Contributing
@@ -102,17 +97,5 @@ Edit
 git checkout -b feature/your-feature-name
 git commit -m "Add feature"
 git push origin feature/your-feature-name
-📄 License
-This project is licensed under the MIT License.
-
-✉️ Contact
-Developer: Vickey Yadav
-
-📧 Email: vickeyyadav0088@gmail.com
 
 
-yaml
-Copy
-Edit
-
----
